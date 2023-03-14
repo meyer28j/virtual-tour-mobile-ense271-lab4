@@ -1,5 +1,7 @@
 # virtual-tour-mobile-ense271-lab4
-This is a virtual tour of Hoxxes IV (a fictional setting from the video game Deep Rock Galactic) created for my People-Centered Design class at the University of Regina.
+DISCLAIMER: I do not own any of the content and imagery displayed on this site. This was created explicitly for educational purposes only.
+
+This is a high-fidelity prototype of a virtual tour website (mobile view) of Hoxxes IV (a fictional setting from the video game Deep Rock Galactic) created for my People-Centered Design class at the University of Regina.
 
 I've included the .fig file if you want to explore in detail!
 
